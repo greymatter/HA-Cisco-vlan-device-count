@@ -1,4 +1,5 @@
 ## sample output from my cisco 3750 ##
+```
 
 sw01-c3750>show mac address-table count
 
@@ -93,3 +94,5 @@ Static  Address Count  : 0
 Total Mac Addresses    : 0
 
 Total Mac Address Space Available: 5912
+
+```
